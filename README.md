@@ -17,7 +17,7 @@ These projects contains:
 ![alt text](<Uk train ticket sales dashboard pix-1.png>)
 #
 #
-- WEST_GEE TECHNOLOGY
+- WEST_GEE TECHNOLOGY SALES ANALYSIS
   #### The executive team of WEST_GEE TECHNOLOGY smartphone retail company is experiencing challenges in understanding customer buying behaviors, product performance, and regional sales patterns across multiple countries. With rising competition and stagnant revenue growth in certain markets, there’s an urgent need to make data-driven decisions based on actual sales data.
   ![alt text](<WEST_GEE sql queries.png>)
 
@@ -26,14 +26,14 @@ These projects contains:
 
 1. Open `LEE CHATMEN MERCHANDISE 1.pbix` in Power BI Desktop.
 2. Open `UK TRAIN TICKET BOOKING.xlsm` in Microsoft Excel (enable macros if prompted).
-3. `WEST_GEE TECHNOLOGY SALES ANALYSIS.sql` in sql server
+3. Open `WEST_GEE TECHNOLOGY.sql` in sql server
 
 ## Project Structure
 
 - `LEE CHATMEN MERCHANISE.pbix` — Power BI dashboard.
 - `UK TRAIN TICKET BOOKING
 .xlsm` — Excel analysis workbook.
-- `WEST_GEE TECHNOLOGY SALES ANALYSIS.sql` __sql server query
+- `WEST_GEE TECHNOLOGY.sql` __sql server query
 
 ## Requirements
 
@@ -44,3 +44,4 @@ These projects contains:
 ## Author
 
 Mr. Boniface Arisa Kamanya
+
